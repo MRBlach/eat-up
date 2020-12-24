@@ -1,0 +1,121 @@
+
+
+.landingPage {
+  background-image: url('images/pizza.gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-color: #121416;
+  height: 100vh;
+}
+.body-bg {
+  background-color: rgb(46, 45, 45);
+}
+.googleFont1 {
+  font-family: 'Sansita Swashed', cursive;S
+}
+.googleFont2 {
+  font-family: 'Caveat', cursive;
+}
+.homeSpacing {
+ height: 80px;
+}
+
+.welcomeHeader {
+  padding: 1rem;
+}
+.spacing {
+  height: 50vh;
+}
+h3 {
+  text-shadow: 1px 1px turquoise;
+}
+body,
+.modal-header,
+.modal-body2,
+.modal-footer {
+  background-image: url('images/bg-body.png');
+  
+}
+.bgImage-none {
+  background-image: none;
+}
+.bg-profiles {
+  background-image: url('images/bg-dark.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.spacer {
+  height: 55vh;
+  background-image: url('images/bg-body.png');
+}
+.navbar,
+.footer {
+  background-image: url('images/bg-seamless.png');
+}
+
+label {
+  font-weight: bold;
+}
+input:placeholder-shown {
+  font-style: italic;
+}
+.modal-body1 {
+  background-image: url('images/bg-seamless.png');
+  background-color: rgb(45, 154, 168);
+  color: white;
+  text-shadow: 1px 1px black;
+  
+  font-size: 1.3rem;
+  line-height: 1.2;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+
+
+
+
+
+/* // Medium devices (tablets, 730px and up) */
+@media (min-width: 730px) {
+  .welcomeHeader,
+  .welcomeSubText {
+    font-size: 5rem;
+  }
+  .card {
+    margin-left: 25px;
+    margin-right: 25px
+  }
+  
+}
+
+/* // Large devices (desktops, 940px and up) */
+@media (min-width: 940px) {
+  .profileCards,
+  .landingPage{
+    padding-left: 10%;
+    padding-right: 10%;
+  } 
+  .desc {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  .column1 {
+    margin-left: 0;
+    margin-right: 100px;
+  }
+
+
+/* // X-Large devices (desktops, 1130px and up) */
+@media (min-width: 1130px) {
+  .profileCards,
+  .landingPage{
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+  .spacing {
+    height: 50vh;
+  }
+}
+
