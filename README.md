@@ -1,8 +1,4 @@
 <h1 align="center">
-<br>
-  <a href="https://github.com/MRBlach/weather-api">
-    <img src="images/weather-icon.png" alt="sun with cloud logo">
-  </a><br>
 Eat-Up!
 </h1> 
 <p align="center">
