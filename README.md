@@ -21,7 +21,7 @@ Eat-Up!
 
 <h1 id="introduction">Introduction</h1>
 
-A mock dating site to show case BootStrap and front end JavaScript skills.
+A mock dating site to showcase BootStrap and front end JavaScript skills.
 
 <h1 id="features">Key Features</h1>
 
