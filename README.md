@@ -1,4 +1,7 @@
 <h1 align="center">
+  <br>
+  <img src="https://i.ibb.co/t3RbZD7/Untitled.png">
+  <br>
 Eat-Up!
 </h1> 
 <p align="center">
